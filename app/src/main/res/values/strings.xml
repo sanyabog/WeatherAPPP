@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherAPP</string>
+    <string name="logo">Погода у вашому місті:</string>
+    <string name="hint_user_field">Вкажіть місто</string>
+    <string name="main_button">Дізнатись погоду</string>
+    <string name="no_user_input">Введіть назву міста</string>
+    <string name="logo1">bog inc.</string>
+
+</resources>
